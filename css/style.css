@@ -146,7 +146,7 @@ table {
   font-size: 30px;
 }
 .movie_title {
-  color: darkred;
+  color: rgb(61, 5, 5);
   text-decoration: underline;
   padding-top: 10px;
   font-size: 25px;
