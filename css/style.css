@@ -161,6 +161,7 @@ table {
   padding-top: 10px;
   text-align: left;
   text-align: justify;
+  padding-bottom: 20px;
 }
 img + p {
   border-bottom: 2px solid blueviolet;
